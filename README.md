@@ -1,3 +1,4 @@
+![logo](https://github.com/mm-himel/mm-himel/blob/main/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm S.M. ARMAN HABIB</h1>
 <h3 align="center">🚀 Passionate Data Science | Machine Learning Engineer Harnessing the Power of Algorithms to Drive Intelligent Automation 🤖</h3>
 
